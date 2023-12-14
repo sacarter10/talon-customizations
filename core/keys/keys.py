@@ -210,7 +210,7 @@ symbol_key_words = {
     "right angle": ">",
     "greater than": ">",
     "star": "*",
-    "hash": "#",
+    "hashtag": "#",
     "percent": "%",
     "caret": "^",
     "amper": "&",
