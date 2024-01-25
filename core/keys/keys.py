@@ -125,7 +125,7 @@ modifier_keys = {
     # If you find 'alt' is often misrecognized, try using 'alter'.
     "alt": "alt",  #'alter': 'alt',
     "control": "ctrl",  #'troll':   'ctrl',
-    "shift": "shift",  #'sky':     'shift',
+    "upper case": "shift",  #'sky':     'shift',
     "super": "super",
 }
 if app.platform == "mac":
@@ -170,7 +170,7 @@ punctuation_words = {
     "right paren": ")",
 }
 symbol_key_words = {
-    "dot": ".",
+    # commented this because it keeps doing this even when I am not saying the word "dot": ".",
     "point": ".",
     "quote": "'",
     "question": "?",
